@@ -12,5 +12,5 @@ console.log("length: "+gameName.length);
 console.log(gameName.charAt(2));
 console.log(gameName.indexOf('e'));
 
-const string1 = 'one line \n another line';
+const string1 = 'one line\nanother line';
 console.log(string1);
